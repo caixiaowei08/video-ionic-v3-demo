@@ -1,0 +1,8 @@
+{
+  "name": "video-ionic-v3-demo",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
